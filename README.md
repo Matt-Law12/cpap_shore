@@ -1,7 +1,10 @@
-# Cat Point Living Shoreline
+<div align="center">
+  
+# Cat Point Living Shoreline Restoration Project
 
 ![image](https://github.com/user-attachments/assets/ae4b331b-091e-437e-97a4-2f89674e20d7)
 
+</div>
 
 ## Project Overview
 The Cat Point Living Shoreline Project is part of the Deepwater Horizon Phase III Early Restoration initiative. Following the 2010 Deepwater Horizon oil spill and the associated response efforts, benthic secondary productivity and salt marsh habitats along Florida’s Panhandle experienced significant damage. This project aims to restore and enhance reef and salt marsh habitats to help compensate the public for ecological injuries and losses resulting from the spill.
