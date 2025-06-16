@@ -12,9 +12,11 @@ The Cat Point Living Shoreline Project is part of the Deepwater Horizon Phase II
 A living shoreline is a natural and sustainable approach to shoreline stabilization that uses native vegetation, oyster reefs, and other natural materials to reduce erosion, improve water quality, and support fish and wildlife habitat.
 
 ## Restoration Work
-
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/6231b393-24e1-4242-a1f4-a3f951df14f4)
 
+</div>
 
 The Cat Point Living Shoreline project employs living shoreline techniques that utilize natural breakwater material to reduce shoreline erosion, provide habitat, and protect recovering salt marshes at Cat Point, Florida. The living shoreline breakwaters were constructed in 2019-2020 at the Apalachicola National Estuarine Research Reserve (ANERR) in Eastpoint, Florida, in Franklin County. The specific breakwater elevation and design was selected to maximize shoreline protection and meet state regulatory requirements. The living shoreline techniques were employed along approximately 0.3 miles of shoreline. This area has been the location of previous successful living shoreline projects that contribute to shoreline protection. 
 
@@ -30,6 +32,12 @@ Living shorelines provide a wide range of environmental benefits, including:
 In addition to these environmental services, living shorelines also offer industrial and economic advantages. Living shorelines both stabilize coastal land and reduce wave energy, aiding in the preservation of coastal properties and businesses, especially during extreme weather events such as severe storms and hurricanes.
 
 ## Monitoring
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/76cd846d-ed0c-46c9-b742-f227200b6aa3)
+
+</div>
+
 To track how well the Cat Point Living Shoreline project is working, we’ve been monitoring different parts of the site over several years. This helps us understand how the habitat is growing and how wildlife is responding to the restoration efforts.
 
 ### Breakwater: 
@@ -44,7 +52,11 @@ We also check how well the planted salt marsh grasses are growing. This happens 
 ### Marsh Spatial Extent:
 To track how much the marsh is expanding, we walk around the planted areas with a GPS device to map their size. This mapping is done twice a year to measure growth over time and to include any new planting zones.
 
+<div align="center">
+  
 ![Screenshot 2025-05-15 133245](https://github.com/user-attachments/assets/a588da1b-fdb9-4b81-9890-8d53ddda9e75)
+
+</div>
 
 Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
