@@ -1,16 +1,24 @@
 # Cat Point Living Shoreline
-Analyzing the monitoring data for the NRDA Cat Point Living Shoreline restoration project. Interactive PowerBI dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZDMzNzc2ZGUtZDM5NC00NzE4LWE3ZTQtZWJkOTIyNjMxZDA5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9). 
-
-![Screenshot 2025-05-15 133245](https://github.com/user-attachments/assets/297cf5a4-ace9-4ece-852e-eafbf47ead38)
 
 ## Project Overview
 The Cat Point Living Shoreline project is a Deepwater Horizon Phase III early restoration project. As a result of the 2010 Deepwater Horizon oil spill and associated response activities, benthic secondary productivity and salt marsh habitats along Florida’s Panhandle suffered adverse impacts. This project seeks to foster reef and salt marsh habitat development, which will help compensate the public for spill-related injuries and losses to benthic secondary productivity and salt marsh habitat.
 
-The Cat Point Living Shoreline project employs living shoreline techniques that utilize natural breakwater material to reduce shoreline erosion, provide habitat, and protect recovering salt marshes at Cat Point, Florida. The living shoreline breakwaters were constructed in 2019-2020 at the Apalachicola National Estuarine Research Reserve (ANERR) in Eastpoint, Florida, in Franklin County (Figure 1). The specific breakwater elevation and design was selected to maximize shoreline protection and meet state regulatory requirements. The living shoreline techniques were employed along approximately 0.3 miles of shoreline. This area has been the location of previous successful living shoreline projects that contribute to shoreline protection. 
+A living shoreline is 
 
-Saltmarsh cordgrass (Spartina alterniflora – recently classified as Sporobolus alterniflorus by Peterson et al. 2014), saltmeadow cordgrass (Spartina patens), and sea oats (Uniola paniculata) were planted in suitable locations landward of the breakwaters in late spring 2020. Because of wash-out events and plant die-offs, additional saltmarsh cordgrass planting occurred in early 2021 and 2022.
+## Restoration Work
+The Cat Point Living Shoreline project employs living shoreline techniques that utilize natural breakwater material to reduce shoreline erosion, provide habitat, and protect recovering salt marshes at Cat Point, Florida. The living shoreline breakwaters were constructed in 2019-2020 at the Apalachicola National Estuarine Research Reserve (ANERR) in Eastpoint, Florida, in Franklin County. The specific breakwater elevation and design was selected to maximize shoreline protection and meet state regulatory requirements. The living shoreline techniques were employed along approximately 0.3 miles of shoreline. This area has been the location of previous successful living shoreline projects that contribute to shoreline protection. 
 
-## Data Collection
+Saltmarsh cordgrass, saltmeadow cordgrass, and sea oats were planted in suitable locations landward of the breakwaters in late spring 2020. Because of wash-out events and plant die-offs, additional saltmarsh cordgrass planting occurred in early 2021 and 2022.
+
+## Why It Matters 
+Living shorelines provide a vast number of environmental services, including: 
+• Preventing Coastal Erosion
+• Providing habitat for both terrestrial and marine life
+• Improves water quality 
+
+On top of the environmental services living shorelines provide, they also industrial and economic benefits as well. Living shorelines both stabilize coastal land and reduce wave energy, which is beneficial to the preservation of coastal properties and businesses, especially during extreme weather events such as severe storms and hurricanes.
+
+## Monitoring 
 ### Breakwater: 
 Monitoring was performed according to the methods outlined in Baggett et al. (2014). Bivalve composition of the breakwaters was monitored during December 2021 (Year 1), December 2022 (Year 2), February 2024 (Year 3), and [] 2025 (Year 4). Quadrats (0.25m2) were placed along three transects on each breakwater, at the east end, middle, and west end. On each of these transects, a quadrat was placed on the landward side, crest, and seaward side (Figure 12). This was done across 16 breakwaters, resulting in 144 measured quadrats for a total area of 36m2. In each quadrat, the number of oysters was counted, using visual approximation to divide them into size classes (Adults: ≥75mm; Seed: 26-74mm; Spat: ≤25mm), and the percent coverage of oysters was estimated.
 
@@ -23,9 +31,13 @@ To date, vegetation monitoring has been performed at all RPs at approximately si
 ### Marsh Spatial Extent: 
 A Trimble® Geo7x is used to map the extent of the Cat Point Living Shoreline planted marsh areas with sub-meter accuracy. Using Trimble® TerraSync™ software, data is collected by walking the extent of the planting areas as the GPS continuously collects points to create a polygon. These polygons are then analyzed in ArcGIS® Pro to determine the spatial extent of each planting area. To date, total area calculations have been conducted biannually to both include newly planted areas and document expansion of existing RPs. 
 
-## Data Analysis
-All of the collected data was entered into an excel spreadsheet. From there, I utilized Python, specifically the Pandas and Matplotlob packages mainly, to complete the analysis and create graphs that helped in visualizing our data and 
+Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
-I also created an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) geared more specifically towards individuals with little to no prior knowledge of the project. The dashboard enables users to explore key insights through dynamic visuals, making complex data more accessible and engaging—far beyond what static graphs or traditional reports can offer.
-<br />
-<br />
+## Results 
+### Breakwater: 
+
+### Epifauna:
+
+### Vegetation:
+
+### Marsh Spatial Extent: 
