@@ -4,9 +4,9 @@
 
 
 ## Project Overview
-The Cat Point Living Shoreline project is a Deepwater Horizon Phase III early restoration project. As a result of the 2010 Deepwater Horizon oil spill and associated response activities, benthic secondary productivity and salt marsh habitats along Florida’s Panhandle suffered adverse impacts. This project seeks to foster reef and salt marsh habitat development, which will help compensate the public for spill-related injuries and losses to benthic secondary productivity and salt marsh habitat.
+The Cat Point Living Shoreline Project is part of the Deepwater Horizon Phase III Early Restoration initiative. Following the 2010 Deepwater Horizon oil spill and the associated response efforts, benthic secondary productivity and salt marsh habitats along Florida’s Panhandle experienced significant damage. This project aims to restore and enhance reef and salt marsh habitats to help compensate the public for ecological injuries and losses resulting from the spill.
 
-A living shoreline is 
+A living shoreline is a natural and sustainable approach to shoreline stabilization that uses native vegetation, oyster reefs, and other natural materials to reduce erosion, improve water quality, and support fish and wildlife habitat.
 
 ## Restoration Work
 
@@ -18,45 +18,45 @@ The Cat Point Living Shoreline project employs living shoreline techniques that 
 Saltmarsh cordgrass, saltmeadow cordgrass, and sea oats were planted in suitable locations landward of the breakwaters in late spring 2020. Because of wash-out events and plant die-offs, additional saltmarsh cordgrass planting occurred in early 2021 and 2022.
 
 ## Why It Matters 
-Living shorelines provide a vast number of environmental services, including: 
+Living shorelines provide a wide range of environmental benefits, including: 
 • Preventing Coastal Erosion
 • Providing habitat for both terrestrial and marine life
-• Improves water quality 
+• Improving water quality 
 
-On top of the environmental services living shorelines provide, they also industrial and economic benefits as well. Living shorelines both stabilize coastal land and reduce wave energy, which is beneficial to the preservation of coastal properties and businesses, especially during extreme weather events such as severe storms and hurricanes.
+In addition to these environmental services, living shorelines also offer industrial and economic advantages. Living shorelines both stabilize coastal land and reduce wave energy, aiding in the preservation of coastal properties and businesses, especially during extreme weather events such as severe storms and hurricanes.
 
-## Monitoring 
+## Monitoring
+To track how well the Cat Point Living Shoreline project is working, we’ve been monitoring different parts of the site over several years. This helps us understand how the habitat is growing and how wildlife is responding to the restoration efforts.
+
 ### Breakwater: 
-Monitoring was performed according to the methods outlined in Baggett et al. (2014). Bivalve composition of the breakwaters was monitored during December 2021 (Year 1), December 2022 (Year 2), February 2024 (Year 3), and [] 2025 (Year 4). Quadrats (0.25m2) were placed along three transects on each breakwater, at the east end, middle, and west end. On each of these transects, a quadrat was placed on the landward side, crest, and seaward side (Figure 12). This was done across 16 breakwaters, resulting in 144 measured quadrats for a total area of 36m2. In each quadrat, the number of oysters was counted, using visual approximation to divide them into size classes (Adults: ≥75mm; Seed: 26-74mm; Spat: ≤25mm), and the percent coverage of oysters was estimated.
+We check the rock and oyster structures (called breakwaters) to see how oysters are growing. Surveys are done once a year by counting oysters in small sections across different parts of the breakwaters. We also group the oysters by size to understand how they are developing over time.
 
-### Epifauna: 
-Epifauna species monitoring on the artificial breakwaters was performed according to the methods outlined in Baggett et al. (2014). To determine the epifauna species composition of the breakwaters, sediment trays consisting of 26.5“x 22” high-density polyethylene bread trays were deployed on each breakwater. The trays were lined with 2mm mesh and filled with 10kg of granite (the same material used inside breakwater mattresses) and 5kg of oyster shell for a total substrate weight of 15kg. Each breakwater had one tray deployed at a random location on the landward side for a total of 16 sediment trays (240kg of fill material). Placement alternated between the base and the crest of the breakwaters. In instances where the randomly selected basket location was unsuitable for placement (e.g. the randomly selected base location was buried in sediment), the basket was moved to a nearby suitable location. Sediment trays were deployed on October 2, 2023, and retrieved November 14 & December 13, 2023 for Year 3 sampling. All substrate material was removed and weighed, and all organisms present were collected for future identification. Samples were fixed in formalin for three days and then transferred to 70% ethanol to better preserve the organisms. Individuals were viewed under a microscope, identified to the lowest possible taxon, and measured. Measurements were determined based on standard practices for specific taxa. 
+### Epifauna:
+To find out what types of small animals are living on the breakwaters, we placed trays filled with rock and oyster shell underwater. These trays act like mini habitats, and after a few weeks, we collect them to see what has moved in. All the animals are identified and measured in the lab.
 
-### Vegetation: 
-To date, vegetation monitoring has been performed at all RPs at approximately six months, one year, and two years after the initial planting dates. For areas that were initially planted in 2021, the three-year annual monitoring has also been completed (Table 8). Monitoring transects are located perpendicular to the shoreline and vary in length, depending on the size and shape of each planting area. Each transect was randomly generated within the planting area, and a sufficient number of transects were selected in each RP to ensure that a minimum of 10% of all planted clumps were included (Figure 21). Starting from the seaward edge, a 1m2 quadrat was flipped end to end along the length of the transect, and within each quadrat, percent cover and height were recorded. Percent cover was determined within each 1m² quadrat surveyed, and height was determined by measuring the height of ten ‘haphazardly’ selected stems within each quadrat. The percent of original coverage was determined by estimating the coverage of any remaining plants from the original planted clump. Within that same area, the number of living plants was calculated and the percent survival was estimated from this evaluation. This process was repeated at Year 1 for all RPs. Future monitoring of plant height and total percent cover will be conducted annually through the culmination of the project. 
+### Vegetation:
+We also check how well the planted salt marsh grasses are growing. This happens at regular intervals—about 6 months, 1 year, and 2 years after planting. We measure how much of the area is covered by plants, how tall they are, and how many of the original plants are still alive.
 
-### Marsh Spatial Extent: 
-A Trimble® Geo7x is used to map the extent of the Cat Point Living Shoreline planted marsh areas with sub-meter accuracy. Using Trimble® TerraSync™ software, data is collected by walking the extent of the planting areas as the GPS continuously collects points to create a polygon. These polygons are then analyzed in ArcGIS® Pro to determine the spatial extent of each planting area. To date, total area calculations have been conducted biannually to both include newly planted areas and document expansion of existing RPs. 
+### Marsh Spatial Extent:
+To track how much the marsh is expanding, we walk around the planted areas with a GPS device to map their size. This mapping is done twice a year to measure growth over time and to include any new planting zones.
 
 ![Screenshot 2025-05-15 133245](https://github.com/user-attachments/assets/a588da1b-fdb9-4b81-9890-8d53ddda9e75)
 
 Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
 ## Results 
-### Breakwater: 
-1.	At year five, the reef area is equal to or greater than constructed area and the elevation is within 10% of constructed height.
-o	In Progress – As of Year 2, all standard breakwaters had an average height at or above the original height of 0.69 meters.
+### Breakwater
+The project goal is for the reef structures to maintain or exceed their original size and height by Year 5. As of Year 2, all standard breakwaters had an average height at or above the original constructed height of 0.69 meters. Monitoring will continue to confirm if this remains true through Year 5.
 
-### Epifauna:
-2.	At year two, the density of oysters and bivalves should be a minimum of 50% cover of the breakwater surface area.
-o	Not Achieved: At Year 2, percent coverage of breakwater surface was ~38.73% In 2025, Year 4 average percent coverage was ~43.49% 
+### Epifauna
+The goal was for oysters and other bivalves to cover at least 50% of the breakwater surface by Year 2. This target was not met. In Year 2, the average coverage was approximately 38.7%. By Year 4 (2025), this improved slightly to about 43.5%, but the goal still remains unmet.
 
-### Vegetation:
-3.	A minimum of 80% of plantings must be viable at the end of the first growing season.
-o	Not Achieved: Average survival was 69.98%.
-4.	At year one, percent cover is at least 80% of original planted cover. At year five, percent cover is equal to or greater than 75% within the project area.
-o	Year One: Not Achieved – Percent cover of original planted cover is 69.91%. 
-o	Year Five: In Progress – Current percent cover (Year 3) is estimated at 69.53%.
+### Vegetation
+The goal was for at least 80% of planted grasses to survive by the end of the first growing season. This target was not met, with average survival at 70%.
+Another goal was for vegetation to reach at least 80% of its original planted cover by Year 1, and 75% total cover within the site by Year 5.
+
+• Year 1: Percent cover was 69.9%, below the target. <br />
+• Year 3 (current): Percent cover is estimated at 69.5%. Monitoring will continue to track progress toward the Year 5 goal. <br />
 
 ### Marsh Spatial Extent: 
 In 2021, a total of 0.338 acres of vegetation had been planted. The original goal set for this restoration project was for the total marsh area to expand to 1 acre. As of March 2025 that goal has been exceeded at 1.06 acres of marsh area. Continued expansion of the current RPs is expected to occur.
