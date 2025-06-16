@@ -19,9 +19,10 @@ Saltmarsh cordgrass, saltmeadow cordgrass, and sea oats were planted in suitable
 
 ## Why It Matters 
 Living shorelines provide a wide range of environmental benefits, including: 
-• Preventing Coastal Erosion
-• Providing habitat for both terrestrial and marine life
-• Improving water quality 
+
+• Preventing Coastal Erosion <br />
+• Providing habitat for both terrestrial and marine life <br />
+• Improving water quality <br />
 
 In addition to these environmental services, living shorelines also offer industrial and economic advantages. Living shorelines both stabilize coastal land and reduce wave energy, aiding in the preservation of coastal properties and businesses, especially during extreme weather events such as severe storms and hurricanes.
 
