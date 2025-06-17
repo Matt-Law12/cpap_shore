@@ -9,7 +9,7 @@
 ## Project Overview
 The Cat Point Living Shoreline Project is part of the Deepwater Horizon Phase III Early Restoration initiative. Following the 2010 Deepwater Horizon oil spill and the associated response efforts, benthic secondary productivity and salt marsh habitats along Florida’s Panhandle experienced significant damage. This project aims to restore and enhance reef and salt marsh habitats to help compensate the public for ecological injuries and losses resulting from the spill.
 
-A living shoreline is a natural and sustainable approach to shoreline stabilization that uses native vegetation, oyster reefs, and other natural materials to reduce erosion, improve water quality, and support fish and wildlife habitat.
+A living shoreline is a natural and sustainable approach to shoreline stabilization that utilizes native vegetation, oyster reefs, and other natural materials to reduce erosion, improve water quality, and support fish and wildlife habitat.
 
 ## Restoration Work
 <div align="center">
@@ -23,7 +23,7 @@ The Cat Point Living Shoreline project employs living shoreline techniques that 
 Saltmarsh cordgrass, saltmeadow cordgrass, and sea oats were planted in suitable locations landward of the breakwaters in late spring 2020. Because of wash-out events and plant die-offs, additional saltmarsh cordgrass planting occurred in early 2021 and 2022.
 
 ## Why It Matters 
-Living shorelines provide a wide range of environmental benefits, including: 
+Living shorelines provide a wide range of environmental benefits, such as: 
 
 • Preventing Coastal Erosion <br />
 • Providing habitat for both terrestrial and marine life <br />
