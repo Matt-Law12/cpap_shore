@@ -62,17 +62,17 @@ Along with the annual monitoring reports that are published by CPAP, an [interac
 
 ## Results 
 ### Breakwater
-The project goal is for the reef structures to maintain or exceed their original size and height by Year 5. As of Year 2, all standard breakwaters had an average height at or above the original constructed height of 0.69 meters. Monitoring will continue to confirm if this remains true through Year 5.
+For our breakwater monitoring, the original goal was for the reef structures to maintain or exceed their original size and height by Year 5. As of Year 2, all standard breakwaters had an average height at or above the original constructed height of 0.69 meters. Monitoring will continue to confirm if this remains true through Year 5.
 
 ### Epifauna
-The goal was for oysters and other bivalves to cover at least 50% of the breakwater surface by Year 2. This target was not met. In Year 2, the average coverage was approximately 38.7%. By Year 4 (2025), this improved slightly to about 43.5%, but the goal still remains unmet.
+By Year 2, we were hoping to see oysters and other bivalves cover at least 50% of the breakwater surface. Unfortunately, this target was not met. In Year 2, the average coverage was approximately 38.7%. By Year 4 (2025), this improved slightly to about 43.5%, but the goal still remains unmet.
 
 ### Vegetation
-The goal was for at least 80% of planted grasses to survive by the end of the first growing season. This target was not met, with average survival at 70%.
-Another goal was for vegetation to reach at least 80% of its original planted cover by Year 1, and 75% total cover within the site by Year 5.
+The goal for our vegetation surveys was to see at least 80% of planted grasses survive by the end of the first growing season. This target was not met, with average survival at 70%.
+Another goal was for vegetation to reach at least 80% of its original planted cover by Year 1, and 75% total cover within the site by Year 5. As of:
 
 • Year 1: Percent cover was 69.9%, below the target. <br />
 • Year 3 (current): Percent cover is estimated at 69.5%. Monitoring will continue to track progress toward the Year 5 goal. <br />
 
 ### Marsh Spatial Extent: 
-In 2021, a total of 0.338 acres of vegetation had been planted. The original goal set for this restoration project was for the total marsh area to expand to 1 acre. As of March 2025 that goal has been exceeded at 1.06 acres of marsh area. Continued expansion of the current RPs is expected to occur.
+In 2021, a total of 0.338 acres of vegetation had been planted. The original goal set for this restoration project was for the total marsh area to expand to 1 acre. As of March 2025, that goal has been exceeded at 1.06 acres of marsh area recorded. Continued expansion of the current RPs is expected to occur.
