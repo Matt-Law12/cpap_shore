@@ -38,7 +38,7 @@ In addition to these environmental services, living shorelines also offer indust
 
 </div>
 
-To track how well the Cat Point Living Shoreline project is working, we’ve been monitoring different parts of the site over several years. This helps us understand how the habitat is growing and how wildlife is responding to the restoration efforts.
+To track the progress of the restoration work done for the Cat Point Living Shoreline project, we’ve been conducting site monitoring on our breakwaters and vegetation planting sites over the past several years. This has included:
 
 ### Breakwater: 
 We check the rock and oyster structures (called breakwaters) to see how oysters are growing. Surveys are done once a year by counting oysters in small sections across different parts of the breakwaters. We also group the oysters by size to understand how they are developing over time.
