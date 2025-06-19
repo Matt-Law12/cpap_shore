@@ -41,16 +41,16 @@ In addition to these environmental services, living shorelines also offer indust
 To track the progress of the restoration work done for the Cat Point Living Shoreline project, we’ve been conducting site monitoring on our breakwaters and vegetation planting sites over the past several years. This has included:
 
 ### Breakwater: 
-We check the rock and oyster structures (called breakwaters) to see how oysters are growing. Surveys are done once a year by counting oysters in small sections across different parts of the breakwaters. We also group the oysters by size to understand how they are developing over time.
+The
 
 ### Epifauna:
-To find out what types of small animals are living on the breakwaters, we placed trays filled with rock and oyster shell underwater. These trays act like mini habitats, and after a few weeks, we collect them to see what has moved in. All the animals are identified and measured in the lab.
+To determine the epifauna species composition of our breakwaters, we place sediment trays filled with granite and oyster shell at a random location on each breakwater. These trays acted as mini habitats that would replicate the inside of our breakwaters, allowing us to get an idea of the epifauna types and abundance in each of our 16 breakwaters. Sediment trays are then collected, and all of the species contained within them are identified and measured for analysis.
 
 ### Vegetation:
-We also check how well the planted salt marsh grasses are growing. This happens at regular intervals—about 6 months, 1 year, and 2 years after planting. We measure how much of the area is covered by plants, how tall they are, and how many of the original plants are still alive.
+We also conduct vegetation monitoring at each of our 11 planting sites. We record average plant height and total area coverage, as well as note other factors such as sediment type and the presence of any species of importance.
 
 ### Marsh Spatial Extent:
-To track how much the marsh is expanding, we walk around the planted areas with a GPS device to map their size. This mapping is done twice a year to measure growth over time and to include any new planting zones.
+To track how much the marsh is expanding, we walk around the planted areas with a GPS device to map their size. This mapping is done to determine the planting areas' spatial extent and change in area since previous years. 
 
 <div align="center">
   
