@@ -41,7 +41,7 @@ In addition to these environmental services, living shorelines also offer indust
 To track the progress of the restoration work done for the Cat Point Living Shoreline project, we’ve been conducting site monitoring on our breakwaters and vegetation planting sites over the past several years. This has included:
 
 ### Breakwater: 
-The
+We conduct bivalve monitoring on each of our 16 breakwaters to determine bivalve species composition, density, and size distribution. This consists of placing a quadrat at 9 different locations on our breakwaters, and within them noting the number of oysters, the percentage of the quadrat they cover, and their relative size class (spat, seed, or adult). We also approximate the amount of dead oysters found in each quadrat. 
 
 ### Epifauna:
 To determine the epifauna species composition of our breakwaters, we place sediment trays filled with granite and oyster shell at a random location on each breakwater. These trays acted as mini habitats that would replicate the inside of our breakwaters, allowing us to get an idea of the epifauna types and abundance in each of our 16 breakwaters. Sediment trays are then collected, and all of the species contained within them are identified and measured for analysis.
