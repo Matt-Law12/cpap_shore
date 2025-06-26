@@ -84,7 +84,7 @@ In 2021, a total of 0.338 acres of vegetation had been planted. The original goa
 
 ### Other Projects:
 • [Florida Oyster Cultch Placement Restoration Project](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/) <br />
-• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Florida Seagrass Recovery Project](https://matt-law12.github.io/cpap_seagrass/) <br />
 • [CPAP YSI Continual Water Quality Monitoring](https://matt-law12.github.io/cpap_wq/) <br />
 
 ### Data Dashboards:
