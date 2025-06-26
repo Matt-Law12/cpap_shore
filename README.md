@@ -44,7 +44,7 @@ To track the progress of the restoration work done for the Cat Point Living Shor
 We conduct bivalve monitoring on each of our 16 breakwaters to determine bivalve species composition, density, and size distribution. This consists of placing a quadrat at 9 different locations on our breakwaters, and within them noting the number of oysters, the percentage of the quadrat they cover, and their relative size class (spat, seed, or adult). We also approximate the amount of dead oysters found in each quadrat. 
 
 ### Epifauna:
-To determine the epifauna species composition of our breakwaters, we place sediment trays filled with granite and oyster shell at a random location on each breakwater. These trays acted as mini habitats that would replicate the inside of our breakwaters, allowing us to get an idea of the epifauna types and abundance in each of our 16 breakwaters. Sediment trays are then collected, and all of the species contained within them are identified and measured for analysis.
+To determine the epifauna species composition of our breakwaters, we place sediment trays filled with granite and oyster shell at a random location on each breakwater. These trays act as mini habitats that effectively replicate the inside of our breakwaters, allowing us to get an idea of the epifauna types and abundance in each of our 16 breakwaters. Sediment trays are then collected, and all of the species contained within them are identified and measured for analysis.
 
 ### Vegetation:
 We also conduct vegetation monitoring at each of our 11 planting sites. We record average plant height and total area coverage, as well as note other factors such as sediment type and the presence of any species of importance.
