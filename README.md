@@ -58,7 +58,7 @@ To track how much the marsh is expanding, we walk around the planted areas with 
 
 </div>
 
-Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
+Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
 ## Results 
 ### Breakwater
@@ -76,3 +76,19 @@ Another goal was for vegetation to reach at least 80% of its original planted co
 
 ### Marsh Spatial Extent: 
 In 2021, a total of 0.338 acres of vegetation had been planted. The original goal set for this restoration project was for the total marsh area to expand to 1 acre. As of March 2025, that goal has been exceeded at 1.06 acres of marsh area recorded. Continued expansion of the current RPs is expected to occur.
+
+## Quick Links
+
+### Central Panhandle Aquatic Preserves Main Page:
+• [CPAP](https://matt-law12.github.io/cpap/)
+
+### Other Projects:
+• [Florida Oyster Cultch Placement Restoration Project](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://matt-law12.github.io/cpap_wq/) <br />
+
+### Data Dashboards:
+• [Florida Oyster Cultch Placement Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Cat Point Living Shoreline Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiZDMzNzc2ZGUtZDM5NC00NzE4LWE3ZTQtZWJkOTIyNjMxZDA5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
