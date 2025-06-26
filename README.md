@@ -2,7 +2,7 @@
   
 # Cat Point Living Shoreline Restoration Project
 
-![image](https://github.com/user-attachments/assets/ae4b331b-091e-437e-97a4-2f89674e20d7)
+<img src="./images/shore1.png" alt="Image 1" />
 
 </div>
 
@@ -14,7 +14,7 @@ A living shoreline is a natural and sustainable approach to shoreline stabilizat
 ## Restoration Work
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/6231b393-24e1-4242-a1f4-a3f951df14f4)
+<img src="./images/shore2.png" alt="Image 2" />
 
 </div>
 
@@ -34,7 +34,7 @@ In addition to these environmental services, living shorelines also offer indust
 ## Monitoring
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/76cd846d-ed0c-46c9-b742-f227200b6aa3)
+<img src="./images/shore3.png" alt="Image 3" />
 
 </div>
 
@@ -54,7 +54,7 @@ To track how much the marsh is expanding, we walk around the planted areas with 
 
 <div align="center">
   
-![Screenshot 2025-05-15 133245](https://github.com/user-attachments/assets/a588da1b-fdb9-4b81-9890-8d53ddda9e75)
+<img src="./images/shore-dash.png" alt="Image 4" />
 
 </div>
 
