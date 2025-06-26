@@ -1,7 +1,7 @@
 <h1 align="center">Cat Point Living Shoreline Restoration Project</h1>
 
 <div align="center">
-
+  
 <img src="./images/shore1.png" alt="Image 1" />
 
 </div>
